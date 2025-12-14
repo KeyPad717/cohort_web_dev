@@ -1,0 +1,19 @@
+body{
+    background-color: #0e0e0e;
+}
+.top{
+    color: grey;
+    cursor: pointer;
+    padding-left: 10;
+}
+.b1 {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 9000px;          /* makes it fully pill-shaped */
+    background-color: #1c1c1c;      /* dark background */
+    border: 0.1px solid #2a2a2a;      /* subtle border */
+    color: #cfcfcf;                 /* light gray text */
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 0.2px;
+}
