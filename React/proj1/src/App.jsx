@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <Hello name="key" message="Hello!!" />
+      <Hello />
     </>
   );
 }
